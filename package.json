@@ -2,7 +2,7 @@
   "name": "test-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sufiaalmas/sufia.github.io",
+  "homepage": "https://github.com/sufiaalmas/sufiaa",
   "dependencies": {
     "bootstrap": "3",
     "react": "^16.5.2",
