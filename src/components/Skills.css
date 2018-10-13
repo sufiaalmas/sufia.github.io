@@ -1,0 +1,13 @@
+.skills{
+    background: #3E5151;  
+background: -webkit-linear-gradient(to right, #DECBA4, #3E5151);  
+background: linear-gradient(to right, #DECBA4, #3E5151); 
+    position: fixed;
+    top:3.5em;
+    height: 100%;
+    width: 100%;
+    
+}
+.skills p,ul{
+    font-size: 120%;
+}

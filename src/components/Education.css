@@ -1,0 +1,14 @@
+.Education{
+    background: #ADA996;  
+  background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  
+  background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); background: #bdc3c7;  
+   
+    position: fixed;
+    top:3.5em;
+    height: 100%;
+    width: 100%;
+    
+}
+.Education h5{
+    font-size:120%;
+}

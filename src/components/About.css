@@ -1,0 +1,116 @@
+.show-grid{
+    background: #ADA996;  
+    background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); 
+    background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); 
+    text-align: center;
+    position: fixed;
+    top:3.5em;
+    height: 100%;
+    width: 100%;
+    
+}
+.image{
+    padding-top:8em;
+    height: 380px;
+    float:left;
+}
+.About-section{
+    padding-top:4em;
+}
+.About-section p, i{
+    font-size: 120%;
+}
+
+
+
+{/*.header-color{
+  background: #bdc3c7;  
+background: -webkit-linear-gradient(to left, #2c3e50, #bdc3c7);
+background: linear-gradient(to left, #2c3e50, #bdc3c7);
+
+}
+.landing-grid{
+  background: #bdc3c7;
+background: -webkit-linear-gradient(to left, #2c3e50, #bdc3c7);
+background: linear-gradient(to left, #2c3e50, #bdc3c7); 
+text-align: center;
+position: fixed;
+top: 0;
+left: 0px;
+width: 100%;
+height: 100%;
+}
+.image{
+  padding-top:14em;
+  height: 300px;
+  
+}
+.banner-text h1,h3{
+  
+  font-size: 66px;
+  font-weight:bold;
+  color:white;
+  
+}
+.banner-text hr{
+  margin:auto;
+  width: 80%;
+}
+.landing-grid2{
+  background: #ADA996;  
+  background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  
+  background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); 
+  position: fixed;
+  top:0;
+  left:0px;width: 100%;height: 100%;
+}
+.landing-grid2 p,h1{
+  text-align: center;
+}
+.landing-grid2 h1{
+  padding-top: 2em;
+}
+
+.landing-grid6{
+  background: #3E5151;  
+background: -webkit-linear-gradient(to right, #DECBA4, #3E5151);  
+background: linear-gradient(to right, #DECBA4, #3E5151); 
+position:absolute;
+  top:10;
+  left:10px;width: 100%;height: 100%;
+  
+}
+.landing-grid6 h1,h4,hr{
+  text-align: center;
+  color: black;
+}
+.landing-grid3{
+  background: #ADA996;  
+background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); 
+background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); 
+ 
+}
+.landing-grid4{
+  background: #ADA996; 
+background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  
+background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); 
+ position: absolute;
+ top: 10;
+  width: 100%;height:100%;
+}
+.landing-grid3 hr{
+  margin:auto;
+  width:80%;
+}
+.banner-text1 hr{
+  color: black;
+  margin:auto;
+  width: 80%;
+}
+.image1{
+  padding-top:0em;
+  height: 300px;
+}
+.landing-grid3 h1,h4{
+  color:rgb(32, 40, 56);
+}*/}
