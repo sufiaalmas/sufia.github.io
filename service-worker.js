@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/sufiaalmas/sufia.github.io/precache-manifest.10868b6f5a387d311faf454f534fe92c.js"
+  "/sufia.github.io/precache-manifest.93fcc4eb18d76057558051963b4d4026.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/sufiaalmas/sufia.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/sufia.github.io/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
