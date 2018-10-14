@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/sufiaalmas/sufia.github.io/precache-manifest.bdce8efe170a7267fa559764b0aed02e.js"
+  "/sufiaalmas/sufia.github.io/precache-manifest.10868b6f5a387d311faf454f534fe92c.js"
 );
 
 workbox.clientsClaim();
