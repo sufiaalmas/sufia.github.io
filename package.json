@@ -2,9 +2,10 @@
   "name": "test-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sufiaalmas/sufiaa",
+  "homepage": "https://github.com/sufiaalmas/sufia.github.io/",
   "dependencies": {
-    "bootstrap": "3",
+  "bootstrap":"4.1.2",
+    "gh-pages": "^2.0.1",
     "react": "^16.5.2",
     "react-bootstrap": "^0.32.4",
     "react-dom": "^16.5.2",
