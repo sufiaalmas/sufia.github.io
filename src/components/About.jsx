@@ -11,11 +11,9 @@ export default class About extends Component{
                     <hr />
                     <Row>
                         <Col xs={6} md={4} xsOffset={1}>
-                        <img 
-                        src="https://www.colourbox.com/preview/3771504-beautiful-girl-working-in-the-office.jpg"
-                        alt="image" rounded
-                        className="image"
-                         />
+                        <Image 
+                        src="/assets/pic.png" className="image"
+                         rounded />
                          </Col>
                         
                          <Col xs={6} md={4} xsOffset={1} className="About-section">
