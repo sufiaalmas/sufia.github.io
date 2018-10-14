@@ -1,29 +1,29 @@
-
-
-.jumbotron{
+.jumbotron {
     margin-bottom: 4em;
 }
-.person-wrapper{
+
+.person-wrapper {
     margin-bottom: 2em;
 }
 
-
-  .home{  
-    background: #0F2027;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    
-     
-    height:100%;
-    width:100%;
-    position: fixed;
+.home {
+    background: #0F2027;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    height: 120%;
+    width: 100%;
+    position: absolute;
     top: 3.5em;
 }
-.home h1 {
-     color: white;
+
+.home h1, h2 {
+    color: white;
 }
-.image2{
-    height: 100%;
-    align: center;
-    
+
+.home img {
+    height: 35em;
+    width: 80em;
 }
